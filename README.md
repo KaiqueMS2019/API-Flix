@@ -17,6 +17,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Axios](https://axios-http.com/docs/intro)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
+- [OMDBAPI](http://www.omdbapi.com)
 ---
 
 ## 📁 Como baixar o projeto
